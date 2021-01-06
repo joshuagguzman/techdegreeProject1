@@ -8,8 +8,12 @@ body {
   padding: 0;
   text-align: center;
   font-family: 'Roboto', sans-serif;
-  color: rgb(34, 34, 34);
+  color: rgb(172, 190, 208);
   background: rgb(55, 60, 70);
+}
+
+h2 {
+  color: rgb(34, 34, 34);
 }
 
 /* Link Styles */
@@ -18,7 +22,7 @@ a {
   color: rgb(153, 153, 153);
 }
 a:hover {
-  color: rgb(102, 51, 255);
+  color: rgb(4, 15, 110);
 }
 
 /* Section Styles */
